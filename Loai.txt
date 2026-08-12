@@ -1,2 +1,3 @@
 ABCD
-this is new line
+
+Hello Jane.
